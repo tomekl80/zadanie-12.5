@@ -2,6 +2,8 @@
 	box-sizing: border-box;
 	padding: 10px;
 	background-color: #55acee;
+	color: white;
+	text-align: center;
 }
 button {
 	border-color: white;
@@ -9,4 +11,7 @@ button {
 	width: 200px;
 	height: 50px;
 	border-width: .5px;
+}
+.container .fab {
+	margin-top: 20px;
 }
